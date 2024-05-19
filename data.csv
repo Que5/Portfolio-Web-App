@@ -1,22 +1,22 @@
-title;descriptio;url;image
-Todo App;A distraction-free web app to help you focus on creting and completing tasks.;https://pythonhow.com; 1.png
-Portfolio Website;A portfolio showcasing my work.;https://pythonhow.com; 2.png
-PDF Templates;An app for converting something to PDF templates.;https://pythonhow.com; 3.png
-PDF Invoices;A script that reads invoice records from excel files and automatically generate PDF invoices.;https://pythonhow.com; 4.png
-Positive News Site; A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com; 5.png
-Weather API; A REST API built with Python  and Flask to serve historical weather data for various cities.https://pythonhow.com; 6.png
-Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.https://pythonhow.com; 7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.https://pythonhow.com; 8.png
-Helper Chatbot; A chatbot that knows about a specific topic and answers questions based on that topic.https://pythonhow.com; 9.png
-Open Domain Chatbot; A chatbot that can discuss just about everything and is built using a Facebook API.https://pythonhow.com; 10.png
-Webcam Motion Detector; A program that monitors the computer webcam and sends an email when a new objects enters the view.https://pythonhow.com; 11.png
-Typing Analyzer; A program that monitors the computer keyboard and return the most typed words of the session.https://pythonhow.com; 12.png
-Internet Speed Analysis;A program that records the internet speed every few seconds annd plots the vaulues on the browser.https://pythonhow.com; 13.png
-Monitoring Data; A program that monitors a particular and periodically records the data to a remote server.https://pythonhow.com; 14.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program.https://pythonhow.com; 15.png
-Visualizing Weather Forecast;A data web app that visulalises the weather Forecast for the next 5 days of any city.https://pythonhow.com; 16.png
-Student Management System;A desktop PyQt6 GUI app for managing university data with an SQL database backend.https://pythonhow.com; 17.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.https://pythonhow.com; 18.png
-Restaurant Menu Web; A Django web app to let customers see a restaurent menu and meal availability.https://pythonhow.com; 19.png
-Online Store; A Django online store app where users can place orders and sellers can manage them.https://pythonhow.com; 20.png
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creting and completing tasks.;https://pythonhow.com;1.png
+Portfolio Website;A portfolio showcasing my work.;https://pythonhow.com;2.png
+PDF Templates;An app for converting something to PDF templates.;https://pythonhow.com;3.png
+PDF Invoices;A script that reads invoice records from excel files and automatically generate PDF invoices.;https://pythonhow.com;4.png
+Positive News Site; A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.jpeg
+Weather API; A REST API built with Python  and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.jpg
+Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.jpg
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.jpg
+Helper Chatbot; A chatbot that knows about a specific topic and answers questions based on that topic.;https://pythonhow.com;9.jpg
+Open Domain Chatbot; A chatbot that can discuss just about everything and is built using a Facebook API.;https://pythonhow.com;10.png
+Webcam Motion Detector; A program that monitors the computer webcam and sends an email when a new objects enters the view.;https://pythonhow.com;11.jpg
+Typing Analyzer; A program that monitors the computer keyboard and return the most typed words of the session.;https://pythonhow.com;12.jpg
+Internet Speed Analysis;A program that records the internet speed every few seconds annd plots the vaulues on the browser.;https://pythonhow.com;13.png
+Monitoring Data; A program that monitors a particular and periodically records the data to a remote server.;https://pythonhow.com;14.jpg
+Visualizing Data;A program that visualizes the data collected in the previous monitoring program.;https://pythonhow.com;15.jpg
+Visualizing Weather Forecast;A data web app that visulalises the weather Forecast for the next 5 days of any city.;https://pythonhow.com;16.jpg
+Student Management System;A desktop PyQt6 GUI app for managing university data with an SQL database backend.;https://pythonhow.com;17.jpg
+School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.jpg
+Restaurant Menu Web; A Django web app to let customers see a restaurent menu and meal availability.;https://pythonhow.com;19.jpg
+Online Store; A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
 
