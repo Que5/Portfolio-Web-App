@@ -1,9 +1,9 @@
 title;descriptio;url;image
 Todo App;A distraction-free web app to help you focus on creting and completing tasks.;https://pythonhow.com; 1.png
-Portfolio Website;
-PDF Templates;
-PDF Invoices;
-Positive News Site;
+Portfolio Website;A portfolio showcasing my work.;https://pythonhow.com; 2.png
+PDF Templates;An app for converting something to PDF templates.;https://pythonhow.com; 2.png
+PDF Invoices;A script that reads invoice records from excel files and automatically generate PDF invoices.;https://pythonhow.com; 3.png
+Positive News Site; A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com; 2.png
 Weather API;
 Download Cleaner;
 Tour Scraper;
